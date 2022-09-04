@@ -10,7 +10,7 @@
  
  # How to Contribute to This Repository
  
- 1. Create an issue, with the title as your name and just upload your octacat image .
+ 1. Create an issue and just upload your octacat image in Octacat-Images Folder.
  2. Fork the project, using the top right corner button, that states fork.
  3. Star the Repository.
  4. ❤️ Feel free to join discussion the section and give your valuable suggestions.

@@ -14,7 +14,7 @@
  2. Must keep the size of image in 200 x 200 format.
  3. Fork the project, using the top right corner button, that states fork.
  4. Star the Repository.
- 5. ❤️ Feel free to join discussion section and give your valuable suggestions.
+ 5. Feel free to join discussion section and give your valuable suggestions.
  6. At the Time of PR be aware of instructions given above to approval of your PR.
  
  # HAPPY CODING </> 👨‍💻❤️

@@ -1,6 +1,6 @@
 # Amazing-Octacat-Image
 
-* List of GitHub octacats that have awesome customization, that you can use for inspiration.
+ List of GitHub octacats that have awesome customization, that you can use for inspiration.
  Feel free to submit a pull request with your suggestions for awesome GitHub octacats Images👨‍💻.
  
  <img src="https://myoctocat.com/assets/images/octocats/octocat-25.png" height="200" weight="200"/>  
